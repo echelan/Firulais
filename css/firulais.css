@@ -1,0 +1,71 @@
+
+
+.back {
+  background-color: #FFFA9F;
+}
+
+.back.darken2 {
+  background-color: #AF9552;
+}
+
+.back.darken1 {
+  background-color: #CCB57C;
+}
+
+/* icon prefix focus color */
+.input-field .prefix.active {
+  color: #CCB57C !important;
+}
+
+/* label color */
+ .input-field label {
+   color: #CCB57C !important;
+ }
+
+  /* label underline color */
+  .input-field input[type=text]  {
+    border-bottom: 1px solid #AF9552 !important;
+    box-shadow: 0 0px 0 0 #000 !important;
+  }
+
+ /* label underline focus color */
+ .input-field input[type=text]:focus {
+   border-bottom: 2px solid #CCB57C !important;
+   box-shadow: 0 0px 0 0 #000 !important;
+ }
+
+  /* email valid color */
+   .input-field input[type=email].valid {
+     border-bottom: 2px solid #4CAF50 !important;
+     box-shadow: 0 0px 0 0 #000 !important;
+   }
+
+   /* email invalid color */
+   .input-field input[type=email].invalid {
+     border-bottom: 2px solid #F44336 !important;
+     box-shadow: 0 0px 0 0 #000 !important;
+   }
+
+   /* email label underline color */
+   .input-field input[type=email]  {
+     border-bottom: 1px solid #AF9552 !important;
+     box-shadow: 0 0px 0 0 #000 !important;
+   }
+
+  /* email label underline focus color */
+  .input-field input[type=email]:focus {
+    border-bottom: 2px solid #CCB57C !important;
+    box-shadow: 0 0px 0 0 #000 !important;
+  }
+
+ .logo-heart-left-color {
+   background-color: #F76B6A;
+ }
+
+.logo-heart-right-color {
+  background-color: #E26261;
+}
+
+.logo-text-color {
+  background-color: #5F1292 !important;
+}
