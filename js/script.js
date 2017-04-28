@@ -1,3 +1,9 @@
-$('btn-large').onClick(function(){
-  Materialize.toast('I am a toast!', 4000)
+
+$('button').click(function(){
+  var first_name = $('input#first_name');
+  var last_name = $('input#last_name');
+  var email = $('input#email ');
+
+
+
 });
