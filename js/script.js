@@ -4,6 +4,6 @@ $('button').click(function(){
   var last_name = $('input#last_name');
   var email = $('input#email ');
 
-
+  console.log(first_name.val());
 
 });
